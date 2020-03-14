@@ -1,6 +1,9 @@
 ---
 name: Feature request
 about: Ideas and feature requests
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

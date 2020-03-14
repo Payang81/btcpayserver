@@ -1,21 +1,14 @@
 ---
-name: Report a problem
-about: File a technical problem or report a bug
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-**Describe the problem/bug**
+**Describe the bug**
 A clear and concise description of what the bug is.
-
-**Your environment**
-* Version of BTCPay Server:
-* Deployment method: 
-* Other relevant environment details:
-
-**Logs (if applicable)**
-Basic logs can be found in Server Settings > Logs.
-
-**Setup Parameters**
-If you're reporting a deployment issue run `. btcpay-setup.sh -i` and paste your the paremeters by obscuring private information.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -27,11 +20,19 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Actual behavior**
-Tell us what happens instead
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Screenshots/Links**
-If applicable, add screenshots or links to help explain your problem.
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
